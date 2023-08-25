@@ -89,14 +89,13 @@ ul {
 }
 
 
-/* TODO 아이콘에 마우스 올릴 시 커지게 만들기 */
-
-/* #icon {
+#icon {
     width: 60px;
     height: 70px;
     transition: all 0.4s linear;
 }
 
+/* TODO 아이콘에 마우스 올릴 시 커지게 만들기 
 #icon:hover {
     width: 60px;
     height: 70px;
